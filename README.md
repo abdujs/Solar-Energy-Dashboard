@@ -2,6 +2,8 @@
 
 A professional, modular, and visually advanced dashboard for global solar energy analytics. Built with React, Vite, TypeScript, Tailwind CSS, and Recharts.
 
+> **Live Demo:** [https://solarenergy-dashboard.vercel.app](https://solarenergy-dashboard.vercel.app)
+> 
 > **Data Source:** The solar energy data used in this dashboard is sourced from Kaggle.
 
 ## Features
@@ -57,4 +59,4 @@ npm run build
 
 ---
 
-© 2025 Solar Energy Dashboard. Built with ❤️ and ☀️ by your team.
+© 2025 Solar Energy Dashboard.
