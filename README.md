@@ -2,6 +2,8 @@
 
 A professional, modular, and visually advanced dashboard for global solar energy analytics. Built with React, Vite, TypeScript, Tailwind CSS, and Recharts.
 
+> **Data Source:** The solar energy data used in this dashboard is sourced from Kaggle.
+
 ## Features
 - Global solar capacity, generation, and growth metrics
 - Interactive charts: Pie, Line, Radar, Scatter, Area
